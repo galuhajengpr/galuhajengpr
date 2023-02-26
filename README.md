@@ -1,6 +1,6 @@
 ### Hello everyone, I'm Galuh👋
 
-An undergraduate student majoring in statistics. I Just started a journey in data field. Proven by independent study and bootcamp program I learn about Data.
+An undergraduate student majoring in statistics. I enjoy the journey in data field. Proven by independent study and bootcamp program I learn about Data.
 
 - 🔭 I’m currently studying on Diponegoro University
 - 🌱 I’m currently learning on Bangkit Academy 2023
